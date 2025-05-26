@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @flomkk
+- 👀 I’m interested in JavaScript and Discord bot development
+- 🌱 I’m currently learning JavaScript
