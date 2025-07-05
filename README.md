@@ -4,8 +4,8 @@ Hi, my name is Florian, and I am passionate about backend development. I have a 
 &nbsp;
 &nbsp;
 
-[![Discord Server](https://img.shields.io/badge/Discord%20Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/flomkk)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/flomkk)
+[![Discord Server](https://img.shields.io/badge/Discord%20Server-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/flomkk)
 
 <h2 align="left">🔧 Here are the tools, libraries, technologies and frameworks I've worked with:</h2>
 
