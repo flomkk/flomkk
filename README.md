@@ -1,5 +1,5 @@
 <h1 align="left">⚡ flomkk </h1>
-Hi, my name is Florian, and I am passionate about backend development. I have a sharp eye for design and a strong focus on writing clean, efficient code. I specialize in creating Discord bots such as 5MSpy, multipurpose bots, and more. &nbsp;
+Hi, my name is Florian, and I am passionate about backend and frontend development. I have a sharp eye for design and a strong focus on writing clean, efficient code. I specialize in creating Discord bots such as 5MSpy, multipurpose bots, and more. &nbsp;
 
 <h3 align="left">📫 How to reach me: </h3>
 
