@@ -3,7 +3,7 @@ Hi, my name is Florian, and I am passionate about backend and frontend developme
 
 <h3 align="left">📫 How to reach me: </h3>
 
-[<img src="https://skillicons.dev/icons?i=discord" width="3.5%"/>](https://discord.gg/GXcD2pdCqw) &nbsp; [<img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" width="3.5%"/>](https://t.me/...) &nbsp;
+[<img src="https://skillicons.dev/icons?i=discord" width="3.5%"/>](https://discord.gg/GXcD2pdCqw) &nbsp; [<img src="https://cdn-icons-png.flaticon.com/512/2504/2504941.png" width="3.5%"/>](https://t.me/flomkk) &nbsp;
 
 <h2 align="left">🔧 Here are the tools, libraries, technologies and frameworks I've worked with: </h2>
 
